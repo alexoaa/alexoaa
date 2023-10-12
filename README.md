@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @alexoaa - Alex Olvera 🇲🇽
-- 👀 I’m interested in web development, videogames and am a dog lover. 🐕❤️
-- 🌱 I’m currently learning to be a Fullstack with JavaScript, NodeJs with Express in the back and VueJS in the front.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://twitter.com/alexoa_a
+- 👋 Hi Alejandro Olvera and am from Mexico.🇲🇽
+- 👀 I’m interested in web development, on the front and back end, so I can create complete web applications. 
+- 🌱 I normally work with Vuejs on the front and I use Nodejs with express on the back.
+- ⚒️ Other technologies I use are SASS, Tailwind CSS, NPM, git for control versiona and MySQL for databases.  
+
+- 📫 Here's my portfolio so you can know more about me, my work and experience. https://alexoa.dev
 
 <!---
 alexoaa/alexoaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
